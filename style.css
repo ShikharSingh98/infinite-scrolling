@@ -19,7 +19,7 @@ h1 {
 }
 
 .image-container a {
-  width: 40%;
+  width: 30%;
 }
 
 .image-container img {
@@ -49,7 +49,7 @@ h1 {
   h1 {
     font-size: 1.8rem;
   }
-  .image-container img {
+  .image-container a {
     width: 100%;
   }
 }
